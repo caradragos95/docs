@@ -52,8 +52,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
+        "getting-started/introduction",
         "development"
       ]
     },
@@ -88,7 +87,7 @@
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   },
-  
+
   "feedback": {
     "thumbsRating": true,
     "suggestEdit": true,
