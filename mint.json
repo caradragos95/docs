@@ -5,7 +5,7 @@
     "dark": "/logo/logo1.svg",
     "light": "/logo/logo1.svg"
   },
-  "favicon": "/favicon2.svg",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#fdb913",
     "light": "#fdc12e",
@@ -50,10 +50,11 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": [
-        "getting-started/introduction",
-        "development"
+        "docs/getting-started/introduction",
+        "docs/getting-started/building-your-first-proc",
+        "docs/getting-started/learn-more"
       ]
     },
     {
